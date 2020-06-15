@@ -7,4 +7,8 @@ Manuscript: https://www.biorxiv.org/content/10.1101/656710v3
 
 ### Contact
 
-mark.histed@nih.gov
+Twitter
+
+[@HistedLab](https://twitter.com/HistedLab)
+
+[@AlessandroSzeni](https://twitter.com/AlessandroSzeni)
